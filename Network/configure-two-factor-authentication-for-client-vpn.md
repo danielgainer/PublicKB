@@ -9,7 +9,7 @@ Creating two factor authentication is very easy to do with Client VPN Service. H
 
 _WARNING: if you enable AD authentication, all existing users will need to re-download their VPN certificates as their existing certificates will no longer function._
 
-1. Go to Network > VPN from the Control Portal menu.
+1. Go to Network > VPN from the Control Portal menu.Ma
   ![](../images/vpn-menu.png)
 
 2. From the VPN Configuration page, click the "edit settings" button. The VPN Settings popup will be displayed.
